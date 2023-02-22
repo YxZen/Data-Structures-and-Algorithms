@@ -1,1 +1,26 @@
 /dsa/target/
+
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# project logs
+logs/
+out/
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
